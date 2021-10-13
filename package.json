@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/frida/gumjs-stream#readme",
   "dependencies": {
-    "@frida/readable-stream": "^4.1.0"
+    "readable-stream": "^3.6.0"
   }
 }
