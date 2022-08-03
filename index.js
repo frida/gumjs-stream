@@ -12,7 +12,7 @@ import {
   destroy,
   compose,
   promises,
-} from 'readable-stream';
+} from '@frida/readable-stream';
 
 export default LegacyStream;
 export {
