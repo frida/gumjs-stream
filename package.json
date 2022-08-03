@@ -1,7 +1,7 @@
 {
   "name": "@frida/stream",
   "description": "Node.js's stream module for Frida",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
